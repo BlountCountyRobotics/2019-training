@@ -1,7 +1,5 @@
  import wpilib
  import commandbased
-
-
  
  class Toggle(wpilib.command.InstantCommand):
      def __init__(self):
